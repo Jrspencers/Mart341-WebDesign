@@ -1,0 +1,6 @@
+
+1. A Directory is basically what is commonly thought of as a File. While not always true, A Directory is basically the main folder in or of said file. As an example a folder inside the main folder would be a "sub-directory."
+
+2. VCS or "Version Control System" would be very useful in being able keep track of where something may have gone wrong in a file or system of changes. Be it a past change or a change that didn't happen, it's always great to have a history of what happened.
+
+3. Coincidentally my favorite art mediums include one common one and another less so. I've always found film, digital or otherwise fascinating in the way it can be edited or captured. Going further, while I'm no bodybuilder I've always been good at and fond of staying active and the process of shaping ones body (the medium in this case) as a personal art form.
