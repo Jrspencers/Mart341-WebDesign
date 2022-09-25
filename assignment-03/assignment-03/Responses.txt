@@ -1,0 +1,3 @@
+An IP address is a unique address specific to each internet access point (computer). DNS (Domain Name System) is the system used to connect names of website address with the websites IP address. 
+Cookies are a piece if information used to determine or tell the server for a website that you have returned to that particular website, thus saving prior information.
+The 3 essential parts of a URL are 1. The protocol (http://) 2. The domain (websites name/.com) 3. The path (instructions on how to navigate all of the directories on the website)
