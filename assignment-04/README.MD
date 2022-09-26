@@ -1,0 +1,3 @@
+Browsers whole function is how most users are able to view the internet. Granted the rise of Apps has made viewing anything on the internet completely different, i remember the days of Netscape and firefox being the only way (always hated IE). The code being taught in the class (at least HTML, not java or css) is what allows text and images to populate the webpages we are so accustomed to. I was surprised to see how much of a market share Chrome has and how little Firefox has. I still enjoy using firefox for most things, but i don't mind Chrome either as a lot of things tend to function better on it anymore.
+
+[Screenshot](./images/Screenshot04.JPG)
