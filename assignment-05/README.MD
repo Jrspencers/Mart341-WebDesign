@@ -7,4 +7,4 @@ But the overall website looks exactly the same. I guess they already had their b
 
 
 
-[Screenshot](./images/Screenshot05.JPG)
+[Screenshot](./images/Screenshot.JPG)
