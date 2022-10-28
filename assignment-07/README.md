@@ -4,4 +4,4 @@ I think when it comes to Forms I've unknowingly used quite a few, like I would i
 
 
 
-[Screenshot](./images/screenshot07.JPG)
+[Screenshot](./Images/screenshot07.JPG)
