@@ -1,0 +1,78 @@
+#header{
+    background-image: url("../images/stacked-header.jpg");
+}
+
+h1{
+    color: rgb(135, 216, 189);
+    font-family: Caveat;
+    font-size: 125px;
+    letter-spacing: 0.3em;
+}
+
+#title:hover{
+    letter-spacing: .5em;
+    font-weight: 700;
+    color: #7a0606;
+}
+
+.titleBorder{
+    height: 210px;
+    background-color: rgb(19, 13, 11);
+    color: rgb(19, 13, 11);
+}
+
+.titleBorder:hover{
+    background-color: #f0960e;
+    color: #7a0606;
+    text-indent: 7em;
+    font-family: Oswald;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #333;
+    font-size: 18px;
+    line-height: 26px;
+    max-width: 725px;
+    font-family: Oswald;
+}
+
+.content-paragraph:first-line{
+    font-size: 40px;
+    font-family: Caveat;
+    line-height: 30px;
+}
+
+.Ref-Link{
+    color: #a7050b;
+}
+.Ref-Link:hover{
+    text-decoration: bold;
+    font-weight: 900;
+}
+
+.Ref-Link:visited{
+    color: #bb0010;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 700px;
+}
+
+img {
+    border: 40px solid #252525;
+}
+
+#img-link:hover{
+    border: 50px solid #252525;
+}
